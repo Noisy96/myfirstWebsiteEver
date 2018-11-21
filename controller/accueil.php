@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" media="screen and (min-width: 700px)" href="../view/style/desktop.css">
 	<title>Accueil</title>
 
-	<!-- This part here is for indicating which page u r at-->
+	<!-- This part here is for indicating which page you are at-->
 	<style type="text/css">
 		@media screen and (min-width: 700px){
 			#accueil, #accueil a{
